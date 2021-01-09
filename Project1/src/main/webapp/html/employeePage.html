@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Employee Page</title>
+<link rel="stylesheet" type="text/css" href="/Project1/css/mystyles.css"><link>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+<body class="backgroundcolor">
+
+	<div class="employee-container">
+    <h1 class="fw-bold">Employee Page</h1>
+    <br>
+        
+    <div class="form-section">
+        <form method="post" action="/Project1/forwarding/addreimb">
+			<input class = "btn btn-primary" id = "addReimbs" type="submit" value="Create a new Reimbursement Request">
+        </form>
+        
+        <form method="get" action="/Project1/forwarding/empapproved">
+			<input class = "btn btn-primary" id = "empApprovedReimbs" type="submit" value="View Approved Reimbursements">
+        </form>
+        
+        <form method="get" action="/Project1/forwarding/empdenied">
+			<input class = "btn btn-primary" id= "empDeniedReimbs" type="submit" value="View Denied Reimbursements">
+        </form>
+
+        <form method="post" action="/Project1/ajax/endsession">
+          <input class = "btn btn-primary" type="submit" value="Log Out">
+        </form>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+
+        <h4>Pending Reimbursements</h4>
+        
+        <table id="myPendingTable" class="table">
+            <thead>
+              <tr>
+                <th scope="col">Reimbursement ID</th>
+                <th scope="col">Amount</th>
+                <th scope="col">Description</th>
+                <th scope="col">Type</th>
+                <th scope="col">Date Submitted</th>
+              </tr>
+            </thead>
+            
+            
+            <tbody id="pendingTableBody">
+            
+            
+            </tbody>
+        </table>
+
+	</div>
+	
+	
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="/Project1/js/employeePage.js"></script>
+</body>
+</html>

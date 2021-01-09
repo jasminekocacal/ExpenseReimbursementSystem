@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Finance Manager Page</title>
+<link rel="stylesheet" type="text/css" href="/Project1/css/mystyles.css"><link>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+<body class="backgroundcolor">
+
+	<h1 class="fw-bold">Finance Manager Page</h1>
+	<br>
+	<div class="form-section">
+
+		<form method="post" action="/Project1/forwarding/fmresolvereimb">
+			<input  class = "btn btn-primary" type="submit" value="Update Reimbursements">
+		</form>
+		
+		
+		<form method="post" action="/Project1/forwarding/fmresolved">
+			<input class = "btn btn-primary" type="submit" value="View Resolved Reimbursements">
+		</form>
+
+
+		<form method="post" action="/Project1/ajax/endsession">
+			<input  class = "btn btn-primary" type="submit" value="Log Out">
+		</form>
+	</div>
+
+	<br>
+	<br>
+	<h3>Pending Reimbursements</h3>
+
+	<table id="myPendingTable" class="table">
+	  <thead>
+		<tr>
+			<th scope="col">Reimbursement ID</th>
+			<th scope="col">Employee ID</th>
+			<th scope="col">Employee Name</th>
+			<th scope="col">Amount</th>
+			<th scope="col">Description</th>
+			<th scope="col">Type</th>
+			<th scope="col">Status</th>
+			<th scope="col">Date Submitted</th>
+		</tr>
+	  </thead>
+	  
+	  
+	  <tbody id="pendingTableBody">
+	  
+	  
+	  </tbody>
+	</table>
+	
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="/Project1/js/financeManagerPage.js"></script>
+</body>
+</html>

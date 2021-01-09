@@ -1,0 +1,114 @@
+
+
+2020-12-29 14:48:36 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 14:48:37 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 14:49:51 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 14:49:51 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 14:50:36 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 14:50:36 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 14:50:59 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 14:50:59 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 14:52:07 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 14:52:08 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 14:53:12 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 14:53:13 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:00:01 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 15:00:01 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:00:42 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 15:00:43 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:01:12 INFO  ERSReimbursementServiceImpl:105 - User johnsmith viewed all their approved reimbursements
+2020-12-29 15:02:27 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 15:02:27 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:02:42 INFO  ERSReimbursementServiceImpl:46 - User johnsmith added a new reimbursement. Amount: 23.1 Type: 1
+2020-12-29 15:02:45 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:02:47 INFO  ERSReimbursementServiceImpl:105 - User johnsmith viewed all their approved reimbursements
+2020-12-29 15:02:48 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:02:49 INFO  ERSReimbursementServiceImpl:122 - User johnsmith viewed all their denied reimbursements
+2020-12-29 15:02:50 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:02:58 INFO  ERSReimbursementServiceImpl:65 - FM User janedoe logged in
+2020-12-29 15:02:59 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 15:03:06 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 15:03:16 INFO  ERSReimbursementServiceImpl:181 - FM User janedoe updated a reimbursement
+2020-12-29 15:03:18 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 15:03:20 INFO  ERSReimbursementServiceImpl:140 - FM User janedoe looked at all of their previously resolved reimbursements
+2020-12-29 15:03:24 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 15:04:09 INFO  ERSReimbursementServiceImpl:65 - FM User janedoe logged in
+2020-12-29 15:04:09 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 15:04:36 INFO  ERSReimbursementServiceImpl:65 - FM User janedoe logged in
+2020-12-29 15:04:37 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 15:04:41 INFO  ERSReimbursementServiceImpl:140 - FM User janedoe looked at all of their previously resolved reimbursements
+2020-12-29 15:05:22 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 15:07:52 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 15:08:11 INFO  ERSReimbursementServiceImpl:140 - FM User janedoe looked at all of their previously resolved reimbursements
+2020-12-29 15:08:17 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 15:08:27 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 15:08:28 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:10:46 INFO  ERSReimbursementServiceImpl:105 - User johnsmith viewed all their approved reimbursements
+2020-12-29 15:11:43 INFO  ERSReimbursementServiceImpl:105 - User johnsmith viewed all their approved reimbursements
+2020-12-29 15:11:47 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:11:49 INFO  ERSReimbursementServiceImpl:122 - User johnsmith viewed all their denied reimbursements
+2020-12-29 15:12:22 INFO  ERSReimbursementServiceImpl:122 - User johnsmith viewed all their denied reimbursements
+2020-12-29 15:12:26 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:18:55 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 15:18:56 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 15:19:36 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 16:52:19 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 16:52:20 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 16:52:43 INFO  ERSReimbursementServiceImpl:46 - User johnsmith added a new reimbursement. Amount: 33.42 Type: 1
+2020-12-29 16:52:47 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 16:52:54 INFO  ERSReimbursementServiceImpl:105 - User johnsmith viewed all their approved reimbursements
+2020-12-29 16:52:58 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 16:53:00 INFO  ERSReimbursementServiceImpl:122 - User johnsmith viewed all their denied reimbursements
+2020-12-29 16:53:03 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 16:53:17 INFO  ERSReimbursementServiceImpl:65 - FM User janedoe logged in
+2020-12-29 16:53:19 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 16:53:34 INFO  ERSReimbursementServiceImpl:181 - FM User janedoe updated a reimbursement
+2020-12-29 16:53:38 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 16:53:43 INFO  ERSReimbursementServiceImpl:140 - FM User janedoe looked at all of their previously resolved reimbursements
+2020-12-29 16:53:52 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2020-12-29 16:54:01 INFO  ERSReimbursementServiceImpl:60 - User johnsmith logged in
+2020-12-29 16:54:02 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 16:54:07 INFO  ERSReimbursementServiceImpl:105 - User johnsmith viewed all their approved reimbursements
+2020-12-29 16:54:12 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2020-12-29 16:55:55 INFO  ERSReimbursementServiceImpl:181 - FM User janedoe updated a reimbursement
+2020-12-29 16:55:55 INFO  ERSReimbursementServiceImpl:181 - FM User janedoe updated a reimbursement
+2020-12-29 16:55:56 INFO  ERSReimbursementServiceImpl:46 - User johnsmith added a new reimbursement. Amount: 32.43 Type: 1
+2020-12-29 16:55:56 INFO  ERSReimbursementServiceImpl:46 - User johnsmith added a new reimbursement. Amount: 32.43 Type: 1
+2021-01-08 21:50:49 INFO  ERSReimbursementServiceImpl:181 - FM User janedoe updated a reimbursement
+2021-01-08 21:50:49 INFO  ERSReimbursementServiceImpl:181 - FM User janedoe updated a reimbursement
+2021-01-08 21:50:49 INFO  ERSReimbursementServiceImpl:46 - User johnsmith added a new reimbursement. Amount: 32.43 Type: 1
+2021-01-08 21:50:49 INFO  ERSReimbursementServiceImpl:46 - User johnsmith added a new reimbursement. Amount: 32.43 Type: 1
+2021-01-08 22:09:21 INFO  ERSReimbursementServiceImpl:67 - Failed login
+2021-01-08 22:23:20 INFO  ERSReimbursementServiceImpl:181 - FM User janedoe updated a reimbursement
+2021-01-08 22:23:20 INFO  ERSReimbursementServiceImpl:181 - FM User janedoe updated a reimbursement
+2021-01-08 22:23:21 INFO  ERSReimbursementServiceImpl:46 - User johnsmith added a new reimbursement. Amount: 32.43 Type: 1
+2021-01-08 22:23:21 INFO  ERSReimbursementServiceImpl:46 - User johnsmith added a new reimbursement. Amount: 32.43 Type: 1
+2021-01-08 22:23:39 INFO  ERSReimbursementServiceImpl:56 - User johnsmith logged in
+2021-01-08 22:23:39 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2021-01-08 22:34:03 INFO  ERSReimbursementServiceImpl:71 - Failed login
+2021-01-08 22:34:40 INFO  ERSReimbursementServiceImpl:59 - User johnsmith logged in
+2021-01-08 22:34:40 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2021-01-08 22:34:45 INFO  ERSReimbursementServiceImpl:105 - User johnsmith viewed all their approved reimbursements
+2021-01-08 22:34:48 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2021-01-08 22:34:50 INFO  ERSReimbursementServiceImpl:122 - User johnsmith viewed all their denied reimbursements
+2021-01-08 22:34:52 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2021-01-08 22:35:05 INFO  ERSReimbursementServiceImpl:64 - FM User janedoe logged in
+2021-01-08 22:35:06 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2021-01-08 22:35:15 INFO  ERSReimbursementServiceImpl:140 - FM User janedoe looked at all of their previously resolved reimbursements
+2021-01-08 22:35:20 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2021-01-08 22:36:29 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2021-01-08 22:36:32 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2021-01-08 22:36:33 INFO  ERSReimbursementServiceImpl:140 - FM User janedoe looked at all of their previously resolved reimbursements
+2021-01-08 22:36:38 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2021-01-08 22:36:50 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2021-01-08 22:51:55 INFO  ERSReimbursementServiceImpl:59 - User johnsmith logged in
+2021-01-08 22:51:56 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2021-01-08 22:52:22 INFO  ERSReimbursementServiceImpl:46 - User johnsmith added a new reimbursement. Amount: 54.64 Type: 3
+2021-01-08 22:52:26 INFO  ERSReimbursementServiceImpl:88 - User johnsmith viewed all their pending reimbursements
+2021-01-08 22:56:55 INFO  ERSReimbursementServiceImpl:71 - Failed login
+2021-01-08 22:57:06 INFO  ERSReimbursementServiceImpl:64 - FM User janedoe logged in
+2021-01-08 22:57:07 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2021-01-08 23:10:40 INFO  ERSReimbursementServiceImpl:64 - FM User janedoe logged in
+2021-01-08 23:10:41 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2021-01-08 23:11:05 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
+2021-01-08 23:11:10 INFO  ERSReimbursementServiceImpl:156 - FM User viewed all the pending reimbursements
